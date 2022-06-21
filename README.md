@@ -4,7 +4,7 @@ Hi 👋 My name is Jorge ivan
 Jr Backend Developer
 --------------------
 
-Im a computer and systems engineering student. I've worked with lenguages as java with Spring Boot, python , also with databases as Mysql , Oracle sql
+Im a computer and systems engineering student. I've worked with lenguages as java with Spring Boot, python , also with databases as Mysql , Oracle sql and pl/sql
 
 * 🌍  I'm based in Armenia,Quindio,Colombia
 * ✉️  You can contact me at [jorgeivan5456@gmail.com](mailto:jorgeivan5456@gmail.com)
