@@ -1,4 +1,4 @@
-Hi 👋 My name is jorge ivan hurtado imbachi
+Hi 👋 My name is Jorge ivan 
 ===========================================
 
 Jr Backend Developer
