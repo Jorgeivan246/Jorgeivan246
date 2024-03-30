@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jorge ivan</h1>
-<h3 align="center">I am computer and systems engineering student with a passion for backend development and data science.</h3>
+<h3 align="center">I am computer and systems engineering with a passion for backend development , data science and math.</h3>
 
 - 💬 Ask me about **Spring boot , Python ,Sql and pl/sql**
 
