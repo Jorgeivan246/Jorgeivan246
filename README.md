@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jorge ivan</h1>
 <h3 align="center">I am computer and systems engineering with a passion for backend development , data science and math.</h3>
 
-- 💬 Ask me about **Spring boot , Python ,Sql and pl/sql**
+- 💬 Ask me about **Backend or Data science i like Spring boot , Python ,Sql and pl/sql**
 
 - 📫 How to reach me **jorgeivan5456@gmail.com**
 
